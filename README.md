@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Hindlekar</h1>
 <h3 align="center">Passionate cybersecurity professional with a software development background</h3>
 
-- I’m currently pursuing **a Master’s in Cybersecurity at GVSU**
+- pursuing **a Master’s in Cybersecurity at GVSU**
 
 - I’m currently learning **Developing hands-on skills in penetration testing, bug bounty, network security, and cloud security, vulnerability analysis, and secure systems and secure software development**
 
