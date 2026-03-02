@@ -12,7 +12,7 @@ Passionate about building secure systems, detection pipelines, and real-world se
 ### 🚀 About Me
 
 - 🎓 Pursuing **M.S. in Cybersecurity** at Grand Valley State University  
-- 💼 3+ years of experience in **Information Security & System Administration**
+- 💼 3+ years of experience in **Information Security, Software Developement & System Administration**
 - 🛡️ Built **30+ security automation scripts** (Python, Bash, PowerShell)
 - ☁️ Strong interest in **Cloud Security, Threat Detection, and Vulnerability Research**
 - 🔍 Experienced in log analysis, SIEM, network traffic analysis, and system hardening
