@@ -3,7 +3,6 @@
 
 <p align="center">
 Master’s in Cybersecurity @ Grand Valley State University (2025–2026) <br>
-Former Information Security Engineer @ DXC Technology <br>
 Passionate about building secure systems, detection pipelines, and real-world security automation
 </p>
 
